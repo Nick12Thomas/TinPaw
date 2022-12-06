@@ -1,0 +1,19 @@
+{
+  "name": "tinpaw",
+  "version": "1.0.0",
+  "description": "A dating sites for dogs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick12Thomas/TinPaw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick12Thomas/TinPaw/issues"
+  },
+  "homepage": "https://github.com/Nick12Thomas/TinPaw#readme"
+}
